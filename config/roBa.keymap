@@ -51,6 +51,11 @@
             bindings = <&mkp MB2>;
             key-positions = <19 20>;
         };
+
+        nobasi {
+            bindings = <&kt MINUS>;
+            key-positions = <8 9>;
+        };
     };
 
     macros {
